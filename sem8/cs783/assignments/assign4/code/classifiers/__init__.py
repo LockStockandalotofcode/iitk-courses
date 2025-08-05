@@ -1,2 +1,0 @@
-from classifiers.cnn import LinearCNNClassifier
-from classifiers.autoencoder import AutoEncoderClassifier

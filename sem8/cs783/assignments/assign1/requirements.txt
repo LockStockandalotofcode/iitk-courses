@@ -1,4 +1,0 @@
-glob
-numpy
-pickle
-opencv
